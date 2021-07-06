@@ -2,9 +2,9 @@
 
 # Converted to Qbus by [710]Kmack710#0710 #
 
-### All credit goes to Strin I just converted it ###
+### All credit goes to Strin and Kmack710#0710 ###
 
-### Thanks Strin! :) ###
+### Thanks Strin and Kmack710#0710! :) ###
 
 
 
@@ -113,7 +113,7 @@ WEBHOOKS = {
 
 
 
-![Form UI](https://imgur.com/dbRgofc.png)
+![Form UI](https://i.imgur.com/Fk6bZj7.png)
 
 
 
@@ -121,17 +121,10 @@ WEBHOOKS = {
 
 
 
-![Embed Message](https://imgur.com/s43hql6.png)
+![Embed Message](https://i.imgur.com/hTvxbZI.png)
 
 
 
 
 
 **
-
-
-
-You can edit this script as much as you want. Don't re-publish or sell this script. Thank you.
-- Permission Given by Strin to republish. 
-
-
