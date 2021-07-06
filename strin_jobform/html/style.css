@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&family=Rubik&display=swap');
+
+* {
+    font-family: 'Rubik'
+}
+
+body {
+    background: none !important;
+}
+
+#container {
+    font-size: 15px;
+    padding: 25px;
+    color: white;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(8, 25, 44, 0.727);
+    height: auto;
+    width: auto;
+    border-bottom: 8px solid #2571c7;
+    border-radius: 7px;
+}
+
+#textareas {
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#textareas:hover {
+    background-color: #2571c7b4;
+}
+
+textarea {
+    display: inline-block;
+    font-family: 'Rubik';
+    font-size: 14px;
+    color: white;
+    padding: 14px;
+    background-color: rgba(8, 25, 44, 0.727);
+    border: 2px solid #2571c7;
+    border-radius: 5px;
+}
+
+#buttons {
+    margin-top: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    color: white;
+    margin: auto;
+    padding: 12px;
+    border: 2px solid #2571c7;
+    border-radius: 7px;
+}
+
+button#submit {
+    background-color: rgba(8, 25, 44, 0.727);
+}
+
+button#close {
+    background-color: rgba(8, 25, 44, 0.727);
+}
+
+button#submit:hover {
+    background-color: #2571c7b4;
+}
+
+button#close:hover {
+    background-color: #2571c7b4;
+}
